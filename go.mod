@@ -10,7 +10,7 @@ require (
 	github.com/golang/protobuf v1.3.3 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0 // indirect
 	github.com/hashicorp/go-version v1.2.0 // indirect
-	github.com/hyperledger/fabric v1.4.4
+	github.com/hyperledger/fabric v1.4.4-0.20200215185510-1893808704b0
 	github.com/hyperledger/fabric-amcl v0.0.0-20200128223036-d1aa2665426a // indirect
 	github.com/hyperledger/fabric-lib-go v1.0.0 // indirect
 	github.com/miekg/pkcs11 v1.0.3 // indirect
